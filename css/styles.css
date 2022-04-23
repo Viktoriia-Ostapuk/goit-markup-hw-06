@@ -1013,7 +1013,7 @@ align-self: center;
     
 }
 
-.cards-content:hover .card-text{
+.card-link:hover .card-text, .card-link:focus .card-text{
     transform: translateY(0);
     
 }
